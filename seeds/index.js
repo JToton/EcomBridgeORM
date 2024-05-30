@@ -1,4 +1,6 @@
+// ! Added to fix .env file issues.
 require("dotenv").config({ path: "../.env" });
+
 const sequelize = require("../config/connection");
 const seedCategories = require("./category-seeds");
 const seedProducts = require("./product-seeds");
