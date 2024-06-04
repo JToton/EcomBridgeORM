@@ -25,7 +25,7 @@ This project is a back-end application for an e-commerce website. It provides a 
 
 ## Screenshot
 
-![Screenshot](/images/image.png)
+![Screenshot](/images/screenshot.PNG)
 
 ## Walkthrough Link
 
